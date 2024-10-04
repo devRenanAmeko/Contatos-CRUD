@@ -32,7 +32,7 @@ if(empty($_GET['delete'])){
 
 <div class="row">
     <div class="col text-center">
-        <h3>Deseja eliminar o seguinte contacto?</h3>
+        <h3>Deseja eliminar o seguinte contato?</h3>
 
         <div class="my-4">
             <div>
