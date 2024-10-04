@@ -47,7 +47,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST'){
         <div class="card p-4">
 
             <form action="adicionar_contacto.php" method="post">
-                <p class="text-center"><strong>NOVO CONTACTO</strong></p>
+                <p class="text-center"><strong>NOVO CONTATO</strong></p>
                 <div class="mb-3">
                     <label for="text_nome" class="form-label">Nome</label>
                     <input type="text" name="text_nome" id="text_nome" class="form-control" minlength="3" maxlength="50" required>
